@@ -8,4 +8,9 @@ enableToc: false
 
 Thanks copilot for a very inspiring intro.
 
+## Why a garden?
+Coming soon...
+
+## All posts
+- [notes](/notes/)
 
